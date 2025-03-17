@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm zhaop-l
 
-<!--
-**zhaop-l/zhaop-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🔬 Algorithm Engineer | AI Researcher**  
+`Python` `PyTorch` `Computer Vision` `LLMs` `Multimodal AI`
 
-Here are some ideas to get you started:
+---
+🔭 I’m currently working on [Multimodal-LLM Framework](https://github.com/InternLM/lmdeploy)  
+🌱 I’m currently learning Model Quantization & LLM Deployment  
+❓ Ask me about Python, PyTorch, Computer Vision or Multimodal AI  
+⚡ Fun fact: I can implement YOLO with closed eyes 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ **Technical Toolkit**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Transformer](https://img.shields.io/badge/Transformer-FF6F00?style=flat&logo=openai&logoColor=white)
+
+---
+
+### 📊 **GitHub Stats**  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhaop-l&show_icons=true&theme=default&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaop-l&layout=compact&theme=default) |
+|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhaop-l&theme=github)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhaop-l&theme=github-light)
