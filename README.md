@@ -25,3 +25,5 @@
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhaop-l&theme=github)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhaop-l&theme=github-light)
+
+[![GitHub Streak](https://github-readme-streak-stats-beta-gray.vercel.app?user=zhaop-l&hide_border=true&locale=zh_Hans&short_numbers=true&card_width=600)](https://git.io/streak-stats)
